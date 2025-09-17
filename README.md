@@ -48,12 +48,19 @@ Across three studies, we consistently found that AI-generated music leads to low
 ## References
 
 Bhardwaj, S., Jain, V., Mahapatra, D., & Sindhwani, R. (2024). Exploring the dark side of AI and its influence on consumer emotion. Journal of Consumer Behaviour. https://doi.org/10.1002/cb.2431
+
 Gangadharbatla, H. (2022). The role of AI attribution knowledge in the evaluation of artwork. Empirical Studies of the Arts, 40(2), 125–142. https://doi.org/10.1177/0276237421994697
+
 Haidt, J., & Joseph, C. (2004). Intuitive ethics: How innately prepared intuitions generate culturally variable virtues. Daedalus, 133(4), 55–66. https://doi.org/10.1162/0011526042365555
+
 Hayes, A. F. (2022). Introduction to mediation, moderation, and conditional process analysis: A regression-based approach (3rd ed.). Guilford Press.
 Horton, C. B., Jr., White, M. W., & Iyengar, S. S. (2023). Bias against AI art can enhance perceptions of human creativity. Scientific Reports, 13(1), 19001. https://doi.org/10.1038/s41598-023-45202-3
+
 Millet, K., Buehler, F., Du, G., & Kokkoris, M. D. (2023). Defending humankind: Anthropocentric bias in the appreciation of AI art. Computers in Human Behavior, 143, 107707. https://doi.org/10.1016/j.chb.2023.107707
+
 Newman, G. E., & Bloom, P. (2012). Art and authenticity: The importance of originals in judgments of value. Journal of Experimental Psychology: General, 141(3), 558–569. https://doi.org/10.1037/a0026035
 Ooi, K.-B., Tan, G. W.-H., Al-Emran, M., Al-Sharafi, M. A., Capatina, A., Chakraborty, A., Dwivedi, Y. K., Huang, T.-L., Kar, A. K., Lee, V.-H., Loh, X.-M., Micu, A., Mikalef, P., Mogaji, E., Pandey, N., Raman, R., Rana, N. P., Sarker, P., Sharma, A., … Wong, L.-W. (2025). The potential of generative artificial intelligence across disciplines: Perspectives and future directions. Journal of Computer Information Systems, 65(1), 76–107. https://doi.org/10.1080/08874417.2023.2261010
+
 van Hees, J., Grootswagers, T., Quek, G. L., & Varlet, M. (2024). Human perception of art in the age of artificial intelligence. Frontiers in Psychology, 15, 1497469. https://doi.org/10.3389/fpsyg.2024.1497469
+
 Zhou, Y., & Kawabata, H. (2023). Eyes can tell: Assessment of implicit attitudes toward AI art. i-Perception, 14(5), 20416695231209846. https://doi.org/10.1177/20416695231209846
